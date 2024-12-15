@@ -49,7 +49,7 @@ h1:hover{
 }
 
 .clickable-image {
-    width: 250px;
+    width: 150px;
     height: auto;
     flex-direction: row;
     flex-wrap: wrap;
