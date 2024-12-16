@@ -38,8 +38,8 @@ h1:hover{
 
 
 .image-container {
-    display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 images per row */
+    flex-direction: row;
+    flex-wrap: wrap;
     gap: 15px;
     flex-direction: row;
     flex-wrap: wrap ;
@@ -188,7 +188,7 @@ figcaption{
     }
 
     figcaption {
-        display: none; 
+        display: 1em; 
     }
 
     .image-container {
