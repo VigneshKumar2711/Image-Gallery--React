@@ -34,7 +34,7 @@ return(
         </figure>
         <figure classNames="image-item">
             <img src={six} alt="Image 6" class="clickable-image slide-in" onclick="openImage(this)"/>
-            <figcaption>Siberian Husky with Happyy Face</figcaption>
+            <figcaption>Siberian Husky with Happy Face</figcaption>
         </figure>
         <figure className="image-item">
             <img src={seven} alt="Image 7" class="clickable-image slide-in" onclick="openImage(this)"/>
